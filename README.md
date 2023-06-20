@@ -28,3 +28,6 @@ By integrating this API into the project, we achieved a robust and efficient com
 ### Prerequisites
 
 Running on Visual Studio based on .NET 6.0
+
+Hardware simulated by Arduino
+
