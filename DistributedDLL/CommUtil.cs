@@ -1,4 +1,7 @@
-﻿using System.Collections;
+﻿/// Final Project Code
+/// Written by Yudi Zhang
+
+using System.Collections;
 using System.Collections.Concurrent;
 using System.Data;
 

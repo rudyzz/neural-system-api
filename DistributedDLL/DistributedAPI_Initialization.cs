@@ -2,6 +2,9 @@
 /// Project 1 - DLL Checkpoint Code
 /// Written by Jeffrey Herron, Cory Lam, and Ember Chow
 
+/// Final Project Code
+/// Written by Yudi Zhang
+
 using System.Collections.Concurrent;
 using System.Diagnostics;
 using System.Formats.Asn1;

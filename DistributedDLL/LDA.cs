@@ -1,4 +1,7 @@
-﻿using MathNet.Numerics.IntegralTransforms;
+﻿/// Final Project Code
+/// Written by Yudi Zhang
+
+using MathNet.Numerics.IntegralTransforms;
 using System;
 using System.Collections.Generic;
 using System.Linq;

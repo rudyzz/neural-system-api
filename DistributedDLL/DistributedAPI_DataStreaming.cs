@@ -1,4 +1,7 @@
-﻿using System.Collections.Concurrent;
+﻿/// Final Project Code
+/// Written by Yudi Zhang
+
+using System.Collections.Concurrent;
 using System.Drawing;
 using System.Net.Mail;
 

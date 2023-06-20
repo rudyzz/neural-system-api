@@ -2,6 +2,9 @@
 /// Project 2 - DLL Checkpoint Code
 /// Written by Jeffrey Herron and Cory Lam
 
+/// Final Project Code
+/// Written by Yudi Zhang
+
 using System;
 using System.IO;
 
